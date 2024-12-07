@@ -48,6 +48,6 @@ The program requires some initial setup for it to work without errors. To set-up
 
 ## IMPORTANT NOTES:
 Within the Paninda Database, there are existing data used for demonstrating the functionality of the software. Use this information when logging into the system to access the demo data:
-### **USERNAME:**_ admin_
-### **PASSWORD:**_ jasjas_
+### **USERNAME:** _admin_
+### **PASSWORD:** _jasjas_
 
