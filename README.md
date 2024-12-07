@@ -16,7 +16,7 @@ Paninda has a main goal of reducing food and product waste by providing an inven
 Business-wise, Paninda’s target is to provide up to 30% more profit for the store owners by ensuring that products are fully stocked and fresh for sale. This goal should be achievable by store owners who implement Paninda within the first 6 months.
 
 ## II.	PYTHON CONCEPTS AND LIBRARIES
-Python Tkinter
+### Python Tkinter
 Python Tkinter is a graphical user interface library available in Python that provides access to widgets such as labels, buttons, and frames. In this program, the Tkinter library was used mainly for GUI applications such as creating labels and frames. The tkk module within the Python Tkinter library was also utilized in parts of the system. Particularly within the database display with the use of the Treeview widgets.
 
 ### CustomTkinter
@@ -34,20 +34,20 @@ Additionally, an aim for Paninda is to maximize profit for sari-sari stores by h
 
 The program requires some initial setup for it to work without errors. To set-up the program, follow these instructions:
 
-1.	Import and start the premade database
-a.	Navigate to the program files and open the ‘database’ folder
-b.	Select the ‘paninda_db’ file and import it with the help of PHPmyAdmin
-c.	Once completed, start the MySQL database in your XAMPP Control Panel
-2.	Download all the system fonts
-a.	Go to the ‘fonts’ folder in the program files 
-b.	Select all the font files
-c.	Right click and choose to install
-3.	Start the program 
-a.	Open the ‘main.py’ in with the help of any IDE
-b.	Run it
+**1.	Import and start the premade database**
+  a.	Navigate to the program files and open the ‘database’ folder
+  b.	Select the ‘paninda_db’ file and import it with the help of PHPmyAdmin
+  c.	Once completed, start the MySQL database in your XAMPP Control Panel
+**2.	Download all the system fonts**
+  a.	Go to the ‘fonts’ folder in the program files 
+  b.	Select all the font files
+  c.	Right click and choose to install
+**3.	Start the program **
+  a.	Open the ‘main.py’ in with the help of any IDE
+  b.	Run it
 
-### IMPORTANT NOTES:
+***IMPORTANT NOTES:***
 Within the Paninda Database, there are existing data used for demonstrating the functionality of the software. Use this information when logging into the system to access the demo data:
-USERNAME: admin
-PASSWORD: jasjas
+**USERNAME:**_ admin_
+**PASSWORD:**_ jasjas_
 
