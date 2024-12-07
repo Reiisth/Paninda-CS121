@@ -35,6 +35,8 @@ Additionally, an aim for Paninda is to maximize profit for sari-sari stores by h
 The program requires some initial setup for it to work without errors. To set-up the program, follow these instructions:
 
 1. Import and start the premade database
+2. Download all the system fonts
+3. Start the program
    _a. Navigate to the program files and open the ‘database’ folder
    _b. Select the ‘paninda_db’ file and import it with the help of PHPmyAdmin
    _c. Once completed, start the MySQL database in your XAMPP Control Panel
