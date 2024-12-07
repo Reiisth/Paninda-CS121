@@ -1,5 +1,6 @@
 # Paninda: Sari-sari Store Inventory Management System
 This project is a final requirement for CS121-Advance Computer Programming.
+
 _(IMPORTANT NOTE AT THE END OF THE FILE)_
 
 ## I.	PROJECT OVERVIEW
