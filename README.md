@@ -2,16 +2,16 @@
 This project is a final requirement for CS121-Advance Computer Programming.
 
 ## I.	PROJECT OVERVIEW
-### RATIONALE
+### Rationale
 Sari-sari stores are familiar businesses found in almost every community in the country. According to the Asian Preparedness Partnership, the Philippines’ small business sector is made up of 1.3 million sari-sari store businesses. Because of their prominence, the Philippine News Agency (2024) considers sari-sari stores as an important part of economic growth.
 Sari-sari stores are typically considered as family business and depend on the family members for their administration. This familial scale of sari-sari stores opens them up to a vulnerability when it comes to inventory management. Families are typically busy and do not bother themselves to conduct proper inventory management because of its cumbersome nature.
 This lack of inventory management systems often leads to shortages, surpluses, and even waste. When the store’s inventory is not subjected to regular tracking, products are often left to expire on the shelves, which gives way to different risks associated with food or products that have gone beyond their expiration. This situation is not only wasteful but also dangerous.
 
-### SCOPE AND LIMITATIONS
+### Scope and Limitations
 Paninda is a project created to abridge this inventory process for tinderas across the country and make food and product waste a thing of the past. This project’s goal is to create an inventory system that is easy to understand and simple to use.
 This system focuses on having an automated inventory system where expired and low quantity products are sorted automatically and are easy to identify. But this system does not handle store sales, orders, or transactions. Paninda caters to the not-so-tech-savvy store owners who does not have an inventory system in place for their business.
 
-### GOALS AND TARGETS
+### Goals and Target
 Paninda has a main goal of reducing food and product waste by providing an inventory system that uses a database approach for sari-sari stores. More specifically it aims to fully replace pen and paper inventory with a digital application. Additionally, because of the database approach and automation, it aims to reduce food and product waste produced by sari-sari stores by 70% within the first year of implementation. 
 Business-wise, Paninda’s target is to provide up to 30% more profit for the store owners by ensuring that products are fully stocked and fresh for sale. This goal should be achievable by store owners who implement Paninda within the first 6 months.
 
@@ -48,6 +48,8 @@ The program requires some initial setup for it to work without errors. To set-up
 
 ## IMPORTANT NOTES:
 Within the Paninda Database, there are existing data used for demonstrating the functionality of the software. Use this information when logging into the system to access the demo data:
-### **USERNAME:** _admin_
-### **PASSWORD:** _jasjas_
+
+**USERNAME:** _admin_
+
+**PASSWORD:** _jasjas_
 
